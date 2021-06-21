@@ -11,7 +11,7 @@
 
 ## Method
 - Connect via Google Maps
-> Map Bukhansan Mountain plants through Google Maps
+> Map Bukhansan Mountain plants through Google Maps <br/>
 
 ![월별 북한산 생태계 지도화 코드](https://user-images.githubusercontent.com/63955072/122717434-90c27800-d2a6-11eb-86d4-5e67002aaaa9.PNG)
 
