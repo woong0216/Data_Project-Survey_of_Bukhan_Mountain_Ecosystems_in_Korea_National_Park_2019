@@ -1,10 +1,26 @@
-# Data_Project-Survey_of_Bukhan_Mountain_Ecosystems_in_Korea_National_Park_2019
-## It is a project made in a public company (Korea National Park)
-* Therefore, it is difficult to provide original data.
+# Investigating the ecosystem of Bukhansan Mountain (KOREA NATIONAL PARK)
+- It is a project made in a public company (Korea National Park)
+> Therefore, it is difficult to provide original data. <br/>
+
+## Propose
+- To investigate the ecosystem that exists in Bukhansan Mountain
+- To check the seasonal ecosystem of Bukhansan Mountain
+
+## Dataset
+- Provides data at Korea National Park
+
 ## Method
-* We built visualizations through the latitude and longitude of the plants in the mountains.
-* Also, we made visualizations by season.
-* But the details are confidential.
-* We're only going to release some of the deliverables.
+- Connect via Google Maps
+> Map Bukhansan Mountain plants through Google Maps
+
+![월별 북한산 생태계 지도화 코드](https://user-images.githubusercontent.com/63955072/122717434-90c27800-d2a6-11eb-86d4-5e67002aaaa9.PNG)
+
 ## Analysis
-* gmplot
+- Map ecosystems by month (gmplot)
+> It is difficult to explain in detail because it was done by a public company. <br/>
+
+![월별 북한산 생태계 지도화](https://user-images.githubusercontent.com/63955072/122717238-493bec00-d2a6-11eb-95ed-d9cbe37acaca.PNG)
+
+## Conclusion
+- Identifying the Seasonal Plant Flowering Times
+- Identify plant ecosystems by location
